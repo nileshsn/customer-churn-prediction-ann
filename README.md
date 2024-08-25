@@ -33,7 +33,6 @@ Check out the live demo of the application:
    git clone https://github.com/yourusername/customer-churn-prediction-ann.git
    cd customer-churn-prediction-ann
 
-
 ## Installation
 
 2. **Install required libraries**: Create a `requirements.txt` file with the following content:
